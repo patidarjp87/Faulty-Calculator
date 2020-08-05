@@ -1,0 +1,2 @@
+# Faulty-Calculator
+I have design code for a faculty.Calculator is not allowed in exam hall but some students use calculator anyway so that i will design faulty calculator which shows wrong calculations of some questions which are asked in paper for example faculty ask a question 2*3 to that calculator gives wrong ans like 68  .This programs gives wrong ans of this questions listed 65*67,89+77, 435/13
